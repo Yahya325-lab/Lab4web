@@ -3,9 +3,10 @@
 |Yahya Ramadhan|312310401|TI.23.A4|Pemograman Web 1|
 
 1. Tambahkan layout untuk menu About yang berisi deskripsi, portofolio, dll
-   ![Screenshot 2024-10-22 142740](https://github.com/user-attachments/assets/8a8fa8a2-a945-413f-af12-2a894afd7c16)
+   
 
   
+![Screenshot 2024-10-22 201550](https://github.com/user-attachments/assets/e68e0add-eb59-4214-ab4c-e0d59256e827)
 
    Dengan menambahkan #about-hero  di bagian atas untuk menampilkan judul "About" dan sedikit pengantar. Bagian konten utama dibagi menjadi dua bagian: Description dan Portfolio.
    Portfolio menampilkan tiga proyek dalam tata letak grid dengan gambar, judul, dan deskripsi singkat.
