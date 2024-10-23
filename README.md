@@ -12,8 +12,8 @@
    Portfolio menampilkan tiga proyek dalam tata letak grid dengan gambar, judul, dan deskripsi singkat.
    
 2. Tambahkan layout untuk menu Contact yang berisi form isian : nama, email, message, dll
-![Screenshot 2024-10-22 143015](https://github.com/user-attachments/assets/cc887a08-98c0-4e4b-ade6-ad15f873df11)
 
-  
+  ![Screenshot 2024-10-23 095759](https://github.com/user-attachments/assets/c385ca5b-deea-42d2-9464-fda3b888e9be)
+
    Dengan menambahkan #contact-hero di bagian atas menampilkan judul "Contact" dan sedikit pengantar. Formulir kontak terdiri dari empat input: Nama, Email, Message, dan Phone (opsional).
    ombol Submit ada di bagian bawah untuk mengirimkan form.
